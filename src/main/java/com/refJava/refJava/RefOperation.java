@@ -31,12 +31,7 @@ public class BookController {
 }
 //fix the issur her 
 
-class java nmaeof thefunction { 
+class java not { 
 
     hello there 
-}
-
-String test()
-{
-    hello("ddddd")
 }
